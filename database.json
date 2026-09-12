@@ -1,0 +1,133 @@
+{
+  "personal": {
+    "name": "SHAIBAZ KARWARKAR",
+    "title": "First-Year BA GSM Student",
+    "tagline": "Aspiring business professional passionate about management, marketing and entrepreneurship.",
+    "location": "Goa, India",
+    "email": "SHAIBAZKARWARKAR@GMAIL.COM",
+    "phone": "+918788734609",
+    "linkedin": "https://www.linkedin.com/in/yourusername",
+    "github": "https://github.com/yourusername",
+    "resume": "#",
+    "profileImage": ""
+  },
+
+  "about": {
+    "heading": "About Me",
+    "description": "I am a first-year Bachelor of Business Administration student with an interest in business strategy, marketing, finance and entrepreneurship. I enjoy learning new skills, working on practical projects and exploring how businesses create value."
+  },
+
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration (BBA)",
+      "institution": "SRINIVAS SINAI DEMPO COLLAGE - AUTONOMOUS ",
+      "location": "Goa, India",
+      "duration": "2026 - 2029",
+      "grade": "Currently Pursuing",
+      "description": "Studying business management, accounting, economics, marketing and organizational behaviour."
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "Your School Name",
+      "location": "Goa, India",
+      "duration": "2024 - 2026",
+      "grade": "XX%",
+      "description": "Completed higher secondary education with a focus on commerce/business-related subjects."
+    }
+  ],
+
+  "skills": {
+    "business": [
+      "Business Communication",
+      "Marketing Fundamentals",
+      "Business Management",
+      "Entrepreneurship",
+      "Financial Literacy"
+    ],
+    "technical": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Microsoft Excel",
+      "PowerPoint",
+      "Canva"
+    ],
+    "soft": [
+      "Communication",
+      "Teamwork",
+      "Problem Solving",
+      "Leadership",
+      "Time Management"
+    ]
+  },
+
+  "projects": [
+    {
+      "title": "Student Business Idea",
+      "description": "Developed a hypothetical business idea including target audience research, value proposition, basic marketing strategy and financial considerations.",
+      "technologies": [
+        "Market Research",
+        "Canva",
+        "Excel"
+      ],
+      "link": "#",
+      "date": "2026"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "description": "Created a responsive personal portfolio website using HTML, CSS and JavaScript with content managed through a JSON database.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "link": "#",
+      "date": "2026"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Student / Fresher",
+      "organization": "Open to Opportunities",
+      "duration": "2026 - Present",
+      "description": "Currently building academic knowledge and practical skills through college projects, self-learning and extracurricular activities."
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "issuer": "Example Platform",
+      "date": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel Fundamentals",
+      "issuer": "Example Platform",
+      "date": "2026",
+      "link": "#"
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "College Presentation",
+      "description": "Participated in an academic presentation/business case activity."
+    },
+    {
+      "title": "School Achievement",
+      "description": "Add an academic, sports, cultural or extracurricular achievement here."
+    }
+  ],
+
+  "interests": [
+    "Entrepreneurship",
+    "Marketing",
+    "Technology",
+    "Finance",
+    "Public Speaking",
+    "Reading"
+  ]
+}
